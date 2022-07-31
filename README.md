@@ -1,7 +1,6 @@
 # pinia
 
-## How build this project
-1. First install pinia for vue 2
+## How install pinia for vue 2
 ```
 npm install pinia @vue/composition-api
 ```
